@@ -234,6 +234,7 @@ section#sobre .about h2 {
     color: #F9F9F9;
     font-weight: 600;
     margin-bottom: 2rem;
+    margin-top: 25px;
 }
 
 section#sobre .about p {
@@ -282,6 +283,7 @@ section#skills .skills .container h2 {
     color: #F9F9F9;
     font-weight: 600;
     margin-bottom: 10rem;
+    margin-top: 75px;
 }
 
 section#skills .skills .container .cards {
